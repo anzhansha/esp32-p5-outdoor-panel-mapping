@@ -1,0 +1,19 @@
+# JetBrains
+.idea/
+
+# ESP-IDF build output
+build/
+cmake-build-debug/
+
+# ESP-IDF local/generated
+sdkconfig.old
+managed_components/
+
+# Python
+venv/
+.venv/
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
