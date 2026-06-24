@@ -8,6 +8,7 @@ cmake-build-debug/
 # ESP-IDF local/generated
 sdkconfig.old
 managed_components/
+sdkconfig
 
 # Python
 venv/
